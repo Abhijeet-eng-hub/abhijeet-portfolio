@@ -7,7 +7,7 @@ export const portfolioData = {
     status: "Available for High-Impact Engineering Roles",
     bio: "I am a 4th-year Computer Science & Engineering student from Raigarh with a relentless drive for building high-scale distributed applications, mission-critical automation, and elite user experiences. Having engineered real-time computer vision systems at Jindal Steel's Cell Automation Center (CAC), I bridge the gap between low-level algorithmic mastery and majestic, pixel-perfect frontend craftsmanship. Currently mastering Data Structures & Algorithms, modern Full Stack architectures, and cutting-edge AI systems targeting 50+ LPA engineering positions.",
     email: "abhijeetgupta.work@gmail.com",
-    github: "https://github.com/abhijeetgupta",
+    github: "https://github.com/Abhijeet-eng-hub",
     linkedin: "https://linkedin.com/in/abhijeet-kumar-gupta",
     leetcode: "https://leetcode.com/abhijeetgupta",
     twitter: "https://twitter.com/abhijeet_dev",
@@ -78,7 +78,7 @@ export const portfolioData = {
         "Validated and certified on-site at Jindal Steel CAC"
       ],
       featured: true,
-      github: "https://github.com/abhijeetgupta/spindle-motion-detection",
+      github: "https://github.com/Abhijeet-eng-hub/spindle-motion-detection",
       liveDemo: "#",
       badge: "Jindal Steel CAC Project"
     },
@@ -96,7 +96,7 @@ export const portfolioData = {
         "End-to-end responsive design with royal dark mode theme"
       ],
       featured: true,
-      github: "https://github.com/abhijeetgupta/nexusflow-ai",
+      github: "https://github.com/Abhijeet-eng-hub/nexusflow-ai",
       liveDemo: "#",
       badge: "Full Stack & AI"
     },
@@ -114,7 +114,7 @@ export const portfolioData = {
         "Smooth micro-interactions and tactile feedback states"
       ],
       featured: true,
-      github: "https://github.com/abhijeetgupta/crown-ui",
+      github: "https://github.com/Abhijeet-eng-hub/crown-ui",
       liveDemo: "#",
       badge: "UI/UX Mastery"
     },
@@ -132,7 +132,7 @@ export const portfolioData = {
         "Used by 200+ engineering peers to prepare for technical interviews"
       ],
       featured: false,
-      github: "https://github.com/abhijeetgupta/algo-forge",
+      github: "https://github.com/Abhijeet-eng-hub/algo-forge",
       liveDemo: "#",
       badge: "DSA & Core"
     }
